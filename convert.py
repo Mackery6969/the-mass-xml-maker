@@ -53,7 +53,7 @@ def extract_frames_audio_and_generate_spritesheet(input_folder, output_folder, g
     os.makedirs(sounds_folder, exist_ok=True)
     
     for filename in os.listdir(input_folder):
-        if filename.endswith(".mp4"):
+        if filename.endswith((".mp4", ".mov")):  # Now supports .mov files as well
             input_video_path = os.path.join(input_folder, filename)
             base_filename = os.path.splitext(filename)[0]
             
