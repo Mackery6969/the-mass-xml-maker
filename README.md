@@ -1,4 +1,4 @@
-# Video to Spritesheet Converter
+# The Mass XML Maker
 This project is a tool that converts video files (such as .mp4 and .mov) into spritesheets and generates corresponding XML files (in Sparrow v2 format). It also extracts audio from the video and saves it as an OGG file.
 By Mackery
 
@@ -34,7 +34,7 @@ git clone https://github.com/Mackery6969/the-mass-xml-maker.git
 
 2. Navigate to the Project Directory:
 ```bash
-cd your-repo-name
+cd the-mass-xml-maker
 ```
 
 3. Install the Required Python Packages:
