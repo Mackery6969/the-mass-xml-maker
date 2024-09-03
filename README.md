@@ -1,5 +1,6 @@
 # The Mass XML Maker
-This project is a tool that converts video files (such as .mp4 and .mov) into spritesheets and generates corresponding XML files (in Sparrow v2 format). It also extracts audio from the video and saves it as an OGG file.
+This project is a tool that converts video files (such as .mp4 and .mov) into spritesheets and generates corresponding XML files (in Sparrow v2 format). It also extracts audio from the video and saves it as an OGG file. This tool is useful for game developers who need to convert video files into spritesheets for use in their games since spritesheets are more efficient for rendering videos in games.
+originally made for [Crypto Clicker](https://gamejolt.com/games/Crypto-Clicker/895023).
 By Mackery
 
 ## Table of Contents
